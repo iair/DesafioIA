@@ -25,4 +25,5 @@ Las tareas desarrolladas para dar solución al problema fueron las siguientes:
 En el notebook "Score de riesgo" se detalla más información acerca de la obtención
 de la solución.
 
-****************Se recomienda abrir en JupyterNotebook, ya que en GitHub no se visualizan algunas celdas en latex.
+##########Se recomienda abrir en JupyterNotebook, ya que en GitHub no se visualizan algunas celdas en latex.
+Próximos pasos: El modelo tiene muchas variables, se recomienda realizar más iteraciones, para disminuir la cantidad de variables del modelo, manteniendo o aumentado la eficiencia del modelo.
