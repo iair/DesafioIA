@@ -25,4 +25,4 @@ Las tareas desarrolladas para dar solución al problema fueron las siguientes:
 En el notebook "Score de riesgo" se detalla más información acerca de la obtención
 de la solución.
 
-****************Se recomienda abrir en JupyterNotebook, ya que en Git no se visualizan algunas celdas en latex.
+****************Se recomienda abrir en JupyterNotebook, ya que en GitHub no se visualizan algunas celdas en latex.
